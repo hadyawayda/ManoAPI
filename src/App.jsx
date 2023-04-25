@@ -66,3 +66,5 @@ function Product (product) {
 //   </div>
 // ))}
 // {quantity}
+
+// , categories, quantity
